@@ -28,7 +28,7 @@
 
 ## Данные
 
-Проект использует два основных источника данных (предполагается, что они находятся в директории `data/`):
+Проект использует два основных источника данных:
 
 * `full_df.csv`: Детальные транзакционные данные, содержащие информацию обо всех покупках клиентов (дата, сумма, количество, ID продуктов и категорий, ID клиента).
 * `actions.csv`: Данные об акционных кампаниях, содержащие информацию о клиентах, которые были включены в акцию (`In_Action=1`), дату акции и их покупки, связанные с акцией.
@@ -57,8 +57,8 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
-    cd YourRepoName
+    git clone [https://github.com/Geewh1z-code/Analysis-of-customer-behavior.git](https://github.com/Geewh1z-code/Analysis-of-customer-behavior.git)
+    cd Analysis-of-customer-behavior
     ```
 
 2.  **Создайте и активируйте виртуальное окружение (рекомендуется):**
@@ -124,6 +124,6 @@
 
 Если у вас есть вопросы или предложения, свяжитесь со мной:
 
-* **Ваше имя:** [Ваше имя]
-* **GitHub:** [Ссылка на ваш профиль GitHub]
-* **Email:** [Ваш email]
+* **Ваше имя:** [Игорь Бабенков]
+* **GitHub:** [Ссылка на ваш профиль GitHub](https://github.com/Geewh1z-code)
+* **Email:** [permanent176@gmail.com]
